@@ -9,9 +9,10 @@
 - 🔥 2023 Goals: Learn more and find a job as full stack developer
 - 🎨  I love to draw and paint
 
+
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/francisca-moore-morales-2821ab142/)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/francisca-moore-morales-2821ab142/)
 
 
 ### Languages and Tools:
@@ -29,6 +30,8 @@
 <img align="left" alt="SQLAlchemy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 
+<br/>
+<br/>
 
 ### Resume 🤞🏻
 <a href="https://drive.google.com/drive/folders/1mbwMJKVBxlCFgVhDxjCduZQL18wmh9ad?usp=sharing">Click here</a>
