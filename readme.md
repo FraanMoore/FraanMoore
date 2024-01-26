@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-2.png)](https://linkedin.com/in/francisca-moore-morales-2821ab142#gh-light-mode-only)
-[![website](./img/linkedin-3.png)](https://linkedin.com/in/francisca-moore-morales-2821ab142#gh-dark-mode-only)
+[![LinkedIn Light Mode](./img/linkedin-2.png)](https://www.linkedin.com/in/francisca-moore-morales/-light-mode-only)
+[![LinkedIn Dark Mode](./img/linkedin-3.png)](https://www.linkedin.com/in/francisca-moore-morales/-dark-mode-only)
 
 
 
