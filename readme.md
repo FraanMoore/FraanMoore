@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything. 
 - 👩🏽‍💻 In April 2023 I finished a bootcamp at 4Geek Academy to become a full stack developer.
 - 👯 I’m looking to collaborate with other content creators
-- 🔥 2023 Goals: Learn more and find a job as full stack developer
+- 🔥 2024 Goals: Learn more and find a job as full stack developer
 - 🎨  I love to draw and paint
 
 
